@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mapleshade20
-- 👀 My stack: Python, Golang. I'd like to learn Rust too but it seems hard.
-- 🌱 I’m currently working hard to study ML.
+- 👀 Current stack: Python, Golang, JavaScript. I'd like to learn Rust someday but it doesn't seem easy.
+- 🌱 I'm a full stack enthusiast and a ML developer.
 - 💞️ I’m looking forward to a time when people unite against Capitalism and work for a shared future.
 - 📫 How to reach me: contact through nothing
 
